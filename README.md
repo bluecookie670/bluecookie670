@@ -2,6 +2,9 @@
 
 I'm a deck officer working toward becoming a software engineer by following a Mastery-Based Learning approach.
 
+- Currently learning Ruby.
+- I've done some small projects on Python and C++
+
 <!--
 **bluecookie670/bluecookie670** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
